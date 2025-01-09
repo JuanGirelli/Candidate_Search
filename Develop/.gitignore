@@ -65,4 +65,4 @@ coverage/
 
 # Temporary files
 *.tmp
-*.swp
+*.swp.env
