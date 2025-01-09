@@ -6,6 +6,8 @@ The **Candidate Search Application** is a professional web platform that allows 
 
 ## Table of Contents
 - [Description](#description)
+- [Deployed Application](#deployed-aplication)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [APIs Used](#apis-used)
 - [Installation](#installation)
@@ -20,6 +22,24 @@ The **Candidate Search Application** is a professional web platform that allows 
 ## Description
 
 The **Candidate Search Application** is a single-page application that leverages the GitHub API to provide users with access to publicly available candidate information. Employers can review candidates, save potential hires to a list, or skip those who do not match their needs. The app ensures data persistence through local storage, allowing users to revisit their saved candidates.
+
+---
+
+## Deployed Application
+
+The Candidate Search Application is live and can be accessed at the following link:
+
+[View Deployed Application on Render](https://candidate-search-rgk4.onrender.com)
+
+---
+
+## Screenshots
+
+### Candidate Search Page
+![Candidate Search Page](/Develop/src/assets/CandidateSearch.png)
+
+### Saved Candidates Page
+![Saved Candidates Page](/Develop/src/assets/SavedCandidate.png)
 
 ---
 
